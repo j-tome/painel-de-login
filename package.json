@@ -1,0 +1,27 @@
+{
+  "name": "painel-de-login",
+  "version": "1.0.0",
+  "description": "Olá, esse repositório ainda está em desenvolvimento. \r Para acessar o site entre no arquivo \"index.html\" e inicie o programa através de algum leitor de código (Exemplo: Visual Studio Code).",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-tome/painel-de-login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-tome/painel-de-login/issues"
+  },
+  "homepage": "https://github.com/j-tome/painel-de-login#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
